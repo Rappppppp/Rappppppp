@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rappppppp
-- 👀 I’m interested in playing Violin
+- 🎻 Violinist
 - 🌱 I’m currently learning C#, Python, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on Japan Tech Companies
+- 💞️ I’m looking forward get a work in Japan / Japan Tech Companies
 
 <!---
 Rappppppp/Rappppppp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
